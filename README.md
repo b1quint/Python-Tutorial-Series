@@ -4,7 +4,7 @@ This repository will hold a series of Python Tutorials dedicated to astronomers 
 
 Please, find the information and links for the existing presentations:
 
-- Basics I [pdf]() [pptx](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations/Python%20Bootcamp%20-%20Basics%20I%20.pptx)
+- Basics I [[pdf]]() [[pptx]](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations/Python%20Bootcamp%20-%20Basics%20I%20.pptx)
   - What is Python?
   - What will you need?
   - Python as a terminal
