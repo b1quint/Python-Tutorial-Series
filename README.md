@@ -8,7 +8,7 @@ For more information and excercises, access the [Repl.It Classrom](https://repl.
 
 Please, find the information and links for the existing presentations:
 
-- Basics I [[pdf]]() [[pptx]](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations/Python%20Bootcamp%20-%20Basics%20I%20.pptx)
+- Basics I [[pdf]](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations/Python%20Tutorial%20Series%20-%20Basics%20I.pdf) [[pptx]](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations/Python%20Tutorial%20Series%20-%20Basics%20I.pptx)
   - What is Python?
   - What will you need?
   - Python as a terminal
