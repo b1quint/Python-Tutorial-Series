@@ -14,3 +14,9 @@ Please, find the information and links for the existing presentations:
   - Python as a terminal
   - Python as a script
   - Types of variables
+  
+- Basics II [[pdf]](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations/Python%20Tutorial%20Series%20-%20Basics%20II.pdf) [[pptx]](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations/Python%20Tutorial%20Series%20-%20Basics%20II.pptx)
+  - Loops and Control
+  - Using methods and libs
+  - Gathering information
+  - Extra - Docstring Formats (text extracted from [Stack Overflow](https://stackoverflow.com/questions/3898572/what-is-the-standard-python-docstring-format?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)) [Notebook](https://github.com/b1quint/Python-Tutorial-Series/tree/master/Notebooks)
