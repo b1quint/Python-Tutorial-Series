@@ -19,4 +19,4 @@ Please, find the information and links for the existing presentations:
   - Loops and Control
   - Using methods and libs
   - Gathering information
-  - Extra - Docstring Formats (text extracted from [Stack Overflow](https://stackoverflow.com/questions/3898572/what-is-the-standard-python-docstring-format?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)) [Notebook](https://github.com/b1quint/Python-Tutorial-Series/tree/master/Notebooks)
+  - [Notebook](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Notebooks/PTS%20Basics%20II%20-%20Docstring%20Format.ipynb) - Docstring Formats (text extracted from [Stack Overflow](https://stackoverflow.com/questions/3898572/what-is-the-standard-python-docstring-format?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)). 
