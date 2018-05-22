@@ -25,14 +25,7 @@ Please, find the information and links for the existing presentations:
   
 - Packages and Virtual Environments [[pdf]](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/Python%20Tutorial%20Series%20-%20Packages%20and%20Virtual%20Envs.pdf) [[pptx]](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/Python%20Tutorial%20Series%20-%20Packages%20and%20Virtual%20Envs.pptx)
   - Installing packages 
-    - Download, unpack, and install 
-    - Search and get packages
   - Virtual Environments
-    - Concept
-    - Again… a lot of options
   - Using Conda
-    - conda vs Anaconda vs Miniconda
-    - Managing virtual environments
-    - Channels and packages
-    - Astroconda
+
     
