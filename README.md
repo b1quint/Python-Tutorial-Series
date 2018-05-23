@@ -23,3 +23,9 @@ Please, find the information and links for the existing presentations:
 
 - Excercises - [Basic Python Excercises from Google](https://developers.google.com/edu/python/exercises/basic)
   
+- Packages and Virtual Environments [[pdf]](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/Python%20Tutorial%20Series%20-%20Packages%20and%20Virtual%20Envs.pdf) [[pptx]](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/Python%20Tutorial%20Series%20-%20Packages%20and%20Virtual%20Envs.pptx)
+  - Installing packages 
+  - Virtual Environments
+  - Using Conda
+
+    
