@@ -28,4 +28,7 @@ Please, find the information and links for the existing presentations:
   - Virtual Environments
   - Using Conda
 
-    
+- A simple plot [[PPTX]](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/Python%20Tutorial%20Series%204%20-%20A%20simple%20plot.pptx)
+  - Numpy and Matplotlib
+  - Figures and Axes
+  - Styles
