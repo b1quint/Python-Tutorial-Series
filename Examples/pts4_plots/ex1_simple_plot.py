@@ -1,4 +1,5 @@
-#/usr/bin/env python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 """
     Python Tutorial Series #4 - Example 1: A Simple Plot
 
@@ -16,4 +17,5 @@ x = [0, 1, 2, 3, 4]
 y = [4, 1, 0, 1, 4]
 
 plot(x, y)
+xlabel(r"$\alpha$")
 show()

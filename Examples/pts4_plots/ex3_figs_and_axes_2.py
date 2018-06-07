@@ -10,10 +10,14 @@ import numpy as np
 x = np.arange(5) - 2
 y = x ** 2
 
-fig = plt.figure(num="My_Figure")
-ax1 = fig.add_subplot(211)
-ax2 = fig.add_subplot(223)
-ax3 = fig.add_subplot(224)
+#fig = plt.figure(num="My_Figure")
+fig, axes = plt.subplots(2, 2, num="My_Figure")
+#ax1 = fig.add_subplot(211)
+#ax2 = fig.add_subplot(223)
+#ax3 = fig.add_subplot(4,4,15)
+ax1 = axes[0,1]
+ax2 = axes[1,0]
+ax3 = axes[1,1]
 
 ax1.plot(x, y, "C0o")
 ax1.set_xlim(-3, 3)
