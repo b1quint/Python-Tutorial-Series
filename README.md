@@ -32,3 +32,9 @@ Please, find the information and links for the existing presentations:
   - Numpy and Matplotlib
   - Figures and Axes
   - Styles
+  
+- Your code pretty and healthy [[PPTX]](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/Python%20Tutorial%20Series%206%20-%20Pretty%20and%20Healthy%20%5BAutosaved%5D.pptx) [[PDF]](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/Python%20Tutorial%20Series%206%20-%20Pretty%20and%20Healthy%20%5BAutosaved%5D.pdf)
+  - What makes a code survive?
+  - Docstrings
+  - Code Layout and Style
+  - What else?
