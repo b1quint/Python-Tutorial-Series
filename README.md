@@ -8,33 +8,45 @@ For more information and excercises, access the [Repl.It Classrom](https://repl.
 
 Please, find the information and links for the existing presentations:
 
-- Basics I [[pdf]](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations/Python%20Tutorial%20Series%20-%20Basics%20I.pdf) [[pptx]](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations/Python%20Tutorial%20Series%20-%20Basics%20I.pptx)
-  - What is Python?
-  - What will you need?
-  - Python as a terminal
-  - Python as a script
-  - Types of variables
+SUSD is currently working on a meta-package written in pure Python to reduce GEMINI data. This implies that astronomers will have to learn basic concepts of this language. As part of the user support, we will provide a series of Python Tutorials with the following format: 1.5 hour tutorial every 4 weeks with expositive and interactive material (exercises). Here is what I want to cover during the year:
 
-- Basics II [[pdf]](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations/Python%20Tutorial%20Series%20-%20Basics%20II.pdf) [[pptx]](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations/Python%20Tutorial%20Series%20-%20Basics%20II.pptx)
-  - Loops and Control
-  - Using methods and libs
-  - Gathering information
-  - [Notebook](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Notebooks/PTS%20Basics%20II%20-%20Docstring%20Format.ipynb) - Docstring Formats (text extracted from [Stack Overflow](https://stackoverflow.com/questions/3898572/what-is-the-standard-python-docstring-format?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)).
+1. Basics 1 
+    1.  Python Overview
+    2.  Python as Console
+    3.  Python as Script
+    4.  Variables
 
-- Excercises - [Basic Python Excercises from Google](https://developers.google.com/edu/python/exercises/basic)
-  
-- Packages and Virtual Environments [[pdf]](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/Python%20Tutorial%20Series%20-%20Packages%20and%20Virtual%20Envs.pdf) [[pptx]](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/Python%20Tutorial%20Series%20-%20Packages%20and%20Virtual%20Envs.pptx)
-  - Installing packages 
-  - Virtual Environments
-  - Using Conda
+2. Basics 2
+    1.  Code Flow
+    2.  Functions
+    3.  Gathering Help
+    4.  IPython
 
-- A simple plot [[PPTX]](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/Python%20Tutorial%20Series%204%20-%20A%20simple%20plot.pptx)
-  - Numpy and Matplotlib
-  - Figures and Axes
-  - Styles
-  
-- Your code pretty and healthy [[PPTX]](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/Python%20Tutorial%20Series%206%20-%20Pretty%20and%20Healthy%20%5BAutosaved%5D.pptx) [[PDF]](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/Python%20Tutorial%20Series%206%20-%20Pretty%20and%20Healthy%20%5BAutosaved%5D.pdf) [[audio presentation]](https://gemini.zoom.us/recording/share/RNO3jPrAktQ_Do5aS1G1BpfPqXwBc0HhpxKU5Ky9tuOwIumekTziMw)
-  - What makes a code survive?
-  - Docstrings
-  - Code Layout and Style
-  - What else?
+3. Basics 3 
+    1.  Packages 
+    2.  Pip
+    3.  Virtual Environments
+    4.  Conda
+
+4. Data Analysis and Visualization 1
+    1.  Numpy
+    2.  Matplotlib 
+    3.  2D Plots
+
+5. Data Analysis and Visualization 2
+    1.  SciPy 
+    2.  Image Display
+    3.  Image Analysis and manipulation 
+
+6. AstroPy
+    1.  Fits I/O
+    2.  Arrays, Headers, and HDU
+    3.  Image Display 
+    4.  Image Manipulation
+
+7. Spectrum Analysis and manipulation using AstroPy
+
+8. Code Survival and Good Practices
+  1.  Code Style
+  2.  Don't Repeat Yourself
+  3.  Test, and test, and test!
