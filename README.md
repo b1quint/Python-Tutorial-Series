@@ -46,6 +46,6 @@ SUSD is currently working on a meta-package written in pure Python to reduce GEM
     1.  ???
 
 8. Code Survival and Good Practices
-  1.  Code Style
-  2.  Don't Repeat Yourself
-  3.  Test, and test, and test!
+    1.  Code Style
+    2.  Don't Repeat Yourself
+    3.  Test, and test, and test!
