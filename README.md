@@ -4,8 +4,6 @@ This repository will hold a series of Python Tutorials dedicated to astronomers 
 
 The material here presented was based on the material produced for the [Python BootCamp 2017 at IAG-USP](https://github.com/b1quint/PythonBootcamp2017).
 
-For more information and excercises, access the [Repl.It Classrom](https://repl.it/data/classrooms/share/35396e379378bdf971abf2ca1c83b3df).
-
 Please, find the information and links for the existing presentations:
 
 SUSD is currently working on a meta-package written in pure Python to reduce GEMINI data. This implies that astronomers will have to learn basic concepts of this language. As part of the user support, we will provide a series of Python Tutorials with the following format: 1.5 hour tutorial every 4 weeks with expositive and interactive material (exercises). Here is what I want to cover during the year:
@@ -45,8 +43,9 @@ SUSD is currently working on a meta-package written in pure Python to reduce GEM
     4.  Image Manipulation
 
 7. Spectrum Analysis and manipulation using AstroPy
+    1.  ???
 
 8. Code Survival and Good Practices
-  1.  Code Style
-  2.  Don't Repeat Yourself
-  3.  Test, and test, and test!
+    1.  Code Style
+    2.  Don't Repeat Yourself
+    3.  Test, and test, and test!
