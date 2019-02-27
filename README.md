@@ -8,7 +8,7 @@ Please, find the information and links for the existing presentations:
 
 SUSD is currently working on a meta-package written in pure Python to reduce GEMINI data. This implies that astronomers will have to learn basic concepts of this language. As part of the user support, we will provide a series of Python Tutorials with the following format: 1.5 hour tutorial every 4 weeks with expositive and interactive material (exercises). Here is what I want to cover during the year:
 
-1. Basics 1 
+1. Basics 1 [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_Basics_I.pptx) [PDF](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations%20(PDFs)/PTS2019_Basics_I.pdf)
     1.  Python Overview
     2.  Python as Console
     3.  Python as Script
