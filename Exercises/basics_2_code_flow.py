@@ -14,11 +14,21 @@ includes:
 Excercise:
 
 1) Find all the Syntax Errors before running
+
 2) Debug why the cat is not eating the Meat
+
 3) Create a new class called Dog and write how it behaves depending on the food
    it eats.
 
+   3.1) Create an empty class
+   3.2) Add the docstring explaining how it will behave
+   3.3) Implement the actual code in a way it behaves as you explained
+
+4) (Challenge) Add a "while" loop that will only stop when all the pets are not
+   hungry anymore.
 """
+from random import randrange
+
 
 class Pet:
     """
@@ -50,7 +60,7 @@ class Pet:
         food_name : str
             The name of the food you will give to our pet.
         """
-        print('{} eats anything and is happy to eat {}'.format(
+        print(' {} eats anything and is happy to eat {}!!'.format(
             self.name, food_name))
         self.is_hungry = False
 
@@ -72,14 +82,14 @@ class Cat(Pet):
         """
 
         if food_name in ['fish', 'meat']:
-            print('{} seems happy!'.format(self.name))
+            print(' {} seems happy!!'.format(self.name))
             self.is_hungry = False
 
         elif food_name in ['milk']:
-            print('{} is happy but still hungry.')
+            print(' {} is happy but still hungry...')
 
         else:
-            print('{} does not like {}'.format(self.name, food_name))
+            print(' {} does not like {}...'.format(self.name, food_name))
 
 
 def give_food_to_pet(my_pet, food):
@@ -96,8 +106,13 @@ def give_food_to_pet(my_pet, food):
 
 if __name__ == '__main__':
 
-    list_of_pets = [Cat('Charlie'), Cat('Mila'), Pet('Tao')]
-    list_of_food = ['Chocolate', 'milk', 'Meat', 'apple', 'fish']
+    list_of_pets = [Cat('Charlie'), Cat('Mila'), Pet('Haru')]
+    list_of_food = ['Biscuit', 'milk', 'Meat', 'apple', 'fish']
 
-    for i in range(list_of_food):
-        give_food_to_pet(list_of_pets[0], list_of_food[i])
+    print()
+    food = list_of_food[randrange(0, len(list_of_food))]
+
+    for i in range(list_of_pets):
+        give_food_to_pet(list_of_pets[i], food)
+
+    print()
