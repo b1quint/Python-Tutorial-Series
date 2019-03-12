@@ -110,9 +110,11 @@ if __name__ == '__main__':
     list_of_food = ['Biscuit', 'milk', 'Meat', 'apple', 'fish']
 
     print()
-    food = list_of_food[randrange(0, len(list_of_food))]
 
-    for i in range(list_of_pets):
-        give_food_to_pet(list_of_pets[i], food)
+    while len(list_of_food) > 0:
+        food = list_of_food.pop()
 
+        for pet in range(list_of_pets):
+            give_food_to_pet(pet, food)
+        
     print()
