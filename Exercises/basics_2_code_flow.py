@@ -27,7 +27,6 @@ Excercise:
 4) (Challenge) Add a "while" loop that will only stop when all the pets are not
    hungry anymore.
 """
-from random import randrange
 
 
 class Pet:
@@ -82,7 +81,7 @@ class Cat(Pet):
         """
 
         if food_name in ['fish', 'meat']:
-            print(' {} seems happy!!'.format(self.name))
+            print(' {} just loved the {}'.format(self.name, food_name))
             self.is_hungry = False
 
         elif food_name in ['milk']:
@@ -107,7 +106,7 @@ def give_food_to_pet(my_pet, food):
 if __name__ == '__main__':
 
     list_of_pets = [Cat('Charlie'), Cat('Mila'), Pet('Haru')]
-    list_of_food = ['Biscuit', 'milk', 'Meat', 'apple', 'fish']
+    list_of_food = ['Biscuit', 'milk', 'Meat', 'Apple', 'fish']
 
     print()
 
@@ -116,5 +115,5 @@ if __name__ == '__main__':
 
         for pet in range(list_of_pets):
             give_food_to_pet(pet, food)
-        
+
     print()
