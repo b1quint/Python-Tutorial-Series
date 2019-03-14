@@ -5,6 +5,7 @@ includes:
 
     - A method
     - A class
+    - A sub-class
     - A if/elif/else case
     - A for loop
 
