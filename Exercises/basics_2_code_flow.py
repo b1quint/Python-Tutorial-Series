@@ -12,7 +12,7 @@ includes:
     - A if/elif/else case
     - A for loop
 
-Exercise:
+Excercise:
 
 1) Find all the Syntax Errors before running
 
@@ -25,7 +25,7 @@ Exercise:
    3.2) Add the docstring explaining how it will behave
    3.3) Implement the actual code in a way it behaves as you explained
 
-4) (Challenge) Add a "while" loop that will only stop when all the pets are not
+4) (Challenge) Add a "while" loop that will stop when all the pets are not
    hungry anymore.
 """
 
@@ -86,7 +86,8 @@ class Cat(Pet):
             self.is_hungry = False
 
         elif food_name in ['milk']:
-            print(' {} is happy but still hungry...')
+            print(' {} liked the {} but still hungry...'.format(
+                self.name, food_name)
 
         else:
             print(' {} does not like {}...'.format(self.name, food_name))
