@@ -37,7 +37,7 @@ class Pet:
 
     Parameters
     ----------
-    name : str
+    new_name : str
         A new name for our new pet.
 
     Attributes
