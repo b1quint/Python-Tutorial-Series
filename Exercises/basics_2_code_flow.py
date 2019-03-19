@@ -12,7 +12,7 @@ includes:
     - A if/elif/else case
     - A for loop
 
-Excercise:
+Exercise:
 
 1) Find all the Syntax Errors before running
 
