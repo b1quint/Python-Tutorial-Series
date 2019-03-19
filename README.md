@@ -14,17 +14,24 @@ SUSD is currently working on a meta-package written in pure Python to reduce GEM
     3.  Python as Script
     4.  Variables
 
-2. Basics 2
+2. Basics 2 (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_Basics_II.pptx) or [PDF](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations%20(PDFs)/PTS2019_Basics_II.pdf))
     1.  Code Flow
     2.  Functions
-    3.  Gathering Help
-    4.  IPython
+    3. Classes
+        1. Attributes
+        2. Methods
+    4. Sub-Classes
 
 3. Basics 3 
-    1.  Packages 
-    2.  Pip
-    3.  Virtual Environments
-    4.  Conda
+    1.  Re-using your code 
+    2.  Modules and Packages
+        1. Imports
+        2. help()
+        3. Discovering modules/Packages
+        4. Installing Packages
+    3.  Python 2 Vs Python 3
+    4.  Virtual Environments
+    5.  Conda
 
 4. Data Analysis and Visualization 1
     1.  Numpy
