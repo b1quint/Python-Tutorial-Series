@@ -87,7 +87,7 @@ class Cat(Pet):
 
         elif food_name in ['milk']:
             print(' {} liked the {} but still hungry...'.format(
-                self.name, food_name)
+                self.name, food_name))
 
         else:
             print(' {} does not like {}...'.format(self.name, food_name))
@@ -101,6 +101,8 @@ def give_food_to_pet(my_pet, food):
     ----------
     my_pet : Pet or any of its subclass
         My pet
+    food : str
+        A food that I will give to my pet
     """
     my_pet.eat(food)
 
@@ -113,9 +115,9 @@ if __name__ == '__main__':
     print()
 
     while len(list_of_food) > 0:
-        food = list_of_food.pop()
+        new_food = list_of_food.pop()
 
         for pet in range(list_of_pets):
-            give_food_to_pet(pet, food)
+            give_food_to_pet(pet, new_food)
 
     print()
