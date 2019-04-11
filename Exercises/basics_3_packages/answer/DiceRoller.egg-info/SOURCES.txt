@@ -1,0 +1,8 @@
+setup.py
+DiceRoller.egg-info/PKG-INFO
+DiceRoller.egg-info/SOURCES.txt
+DiceRoller.egg-info/dependency_links.txt
+DiceRoller.egg-info/top_level.txt
+dice_roller/__init__.py
+dice_roller/dices.py
+dice_roller/roll_dices.py
