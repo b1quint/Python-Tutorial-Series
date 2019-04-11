@@ -3,7 +3,7 @@
 This module contains a function that simulates a six side dice roll
 """  
 
-import dice_roller.dices as dices
+from dice_roller import dices
 
 
 def main():
