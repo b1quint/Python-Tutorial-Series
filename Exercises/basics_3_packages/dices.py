@@ -13,32 +13,27 @@ class Dice:
     A basic Dice is a Dice with six sides.
 
     Attributes
-    ----------
-    _min : int
-        Minimum possible value to be returned
-    _max : int
+    sides : int
         Maximum possible value to be returned
     """
-
-    _min = 1
-    _max = 6
+    sides = 6
 
     def roll(self):
         """Returns a random integer number between `_min` and `_max`"""
-        return random.randint(self._min, self._max)
+        return random.randint(1, self.sides)
 
 
 class FourSidedDice(Dice):
     """A four sided dice."""
 
-    def __init__(self)
-        self._max = 4
+    def __init__(self):
+        self.sides = 4
 
 
 class EightSidedDice(Dice):
     """An eight sided dice."""
 
-    def __init__(self)
-        self._max = 8
+    def __init__(self):
+        self.sides = 8
 
 

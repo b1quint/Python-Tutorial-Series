@@ -17,6 +17,6 @@ setup(name=package_name,
       description=description,
       author=author,
       author_email=author_email,
-      packages=find_packages(exclude=["answer",]),
+      packages=find_packages(exclude=[".answer",]),
       scripts=[],
      )
