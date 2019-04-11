@@ -2,7 +2,10 @@
 
 This file holds a simple example of a Python Project. It includes:
 
-    - A method
+-  Three python files: 
+    -  `my_module.py` that can be invoked from a terminal and return a random value between 1 and 6, 
+    -  `dices.py` that contains classes with dices, 
+    -  `setup.py` which contains the configuration for installation of the package.
 
 ## Excercise
 
@@ -33,4 +36,5 @@ This file holds a simple example of a Python Project. It includes:
     3. Go to another folder in your system and try to run the script again.
 
 5.  Modify `roll()` to use the `dice_roller.dices.Dice` class instead of the `random.randint()` function.
-    
+
+   
