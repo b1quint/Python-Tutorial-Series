@@ -22,16 +22,12 @@ SUSD is currently working on a meta-package written in pure Python to reduce GEM
         2. Methods
     4. Sub-Classes
 
-3. Basics 3 
-    1.  Re-using your code 
+3. Basics 3 (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_Basics_III.pptx) (not finished yet)) 
+    1.  (Re)Using your code 
     2.  Modules and Packages
-        1. Imports
-        2. help()
-        3. Discovering modules/Packages
-        4. Installing Packages
-    3.  Python 2 Vs Python 3
+    3.  Py2/3 conversion
     4.  Virtual Environments
-    5.  Conda
+    5.  (Mini/Ana)Conda
 
 4. Data Analysis and Visualization 1
     1.  Numpy
