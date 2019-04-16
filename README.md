@@ -22,7 +22,7 @@ SUSD is currently working on a meta-package written in pure Python to reduce GEM
         2. Methods
     4. Sub-Classes
 
-3. Basics 3 (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_Basics_III.pptx) - not finished yet) 
+3. Basics 3 (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_Basics_III.pptx) or [PDF](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations%20(PDFs)/PTS2019_Basics_III.pdf)) 
     1.  (Re)Using your code 
         1.  Modules
         2.  Packages
