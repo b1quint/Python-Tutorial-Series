@@ -31,7 +31,7 @@ SUSD is currently working on a meta-package written in pure Python to reduce GEM
     5.  Virtual Environments
     6.  (Mini/Ana)Conda
 
-4. Data Analysis and Visualization 1
+4. Data Analysis and Visualization 1 (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations/PTS2019_DataVizualization_I.pptx) or in [PDF](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations%20(PDFs)/PTS2019_DataVizualization_I.pdf) or [Notebook](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Notebooks/PTS2019%20-%20Data%20Analysis%20and%20Visualization%201.ipynb))
     1.  Numpy
     2.  Matplotlib 
     3.  2D Plots
