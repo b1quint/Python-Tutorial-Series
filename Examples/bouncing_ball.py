@@ -18,7 +18,7 @@ def main():
     Main method. Displays a window with two particles bouncing.
     """
 
-    my_particle_1 = Particle(0.1, 0.001, 0.5, 0.000)
+    my_particle_1 = Particle(0.1, 0.010, 0.5, 0.000)
     my_particle_2 = Particle(0.2, 0.0025, 0.25, 0.003)
     my_particle_3 = Particle(0.3, 0.005, 0.1, 0.002)
 
