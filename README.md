@@ -1,4 +1,5 @@
 # Python Tutorial Series
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/b1quint/Python-Tutorial-Series/master)
 
 This repository will hold a series of Python Tutorials dedicated to astronomers that are interested in learning Python. My idea is to have one of the Tutorials per month. This will happen during the Science Coffee time at the AURA Lecture Hall.
 
@@ -36,7 +37,7 @@ SUSD is currently working on a meta-package written in pure Python to reduce GEM
     2.  Matplotlib 
     3.  2D Plots
 
-5. Data Analysis and Visualization 2 (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_DataVizualization_II.pptx) or in [PDF](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations%20(PDFs)/PTS2019_DataVizualization_II.pdf)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/b1quint/Python-Tutorial-Series/master?filepath=Notebooks%2FPTS2019%2520-%2520Data%2520Analysis%2520and%2520Visualization%25202.ipynb)
+5. Data Analysis and Visualization 2 (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_DataVizualization_II.pptx) or in [PDF](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations%20(PDFs)/PTS2019_DataVizualization_II.pdf))
     1.  Numpy Tricks
         1.  Broadcasting
         2.  Meshgrid
