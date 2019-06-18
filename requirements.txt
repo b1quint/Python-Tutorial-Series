@@ -1,2 +1,4 @@
+imageio
 matplotlib
+numpy
 scipy
