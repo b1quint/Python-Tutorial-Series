@@ -36,10 +36,26 @@ SUSD is currently working on a meta-package written in pure Python to reduce GEM
     2.  Matplotlib 
     3.  2D Plots
 
-5. Data Analysis and Visualization 2
-    1.  SciPy 
+5. Data Analysis and Visualization 2 (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_DataVizualization_II.pptx) or in [PDF](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations%20(PDFs)/PTS2019_DataVizualization_II.pdf)) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/b1quint/Python-Tutorial-Series/master?filepath=Notebooks%2FPTS2019%2520-%2520Data%2520Analysis%2520and%2520Visualization%25202.ipynb)
+    1.  Numpy Tricks
+        1.  Broadcasting
+        2.  Meshgrid
+        3.  mgrid
     2.  Image Display
-    3.  Image Analysis and manipulation 
+        1.  Using imshow
+        2.  Origin
+        3.  Colormaps
+        4.  Colorbar
+    3.  Image Manipulation
+        1.  Reading PNG files
+        2.  Slice and merging
+        3.  Adding some noise
+        4.  Some stats with NumPy
+    4.  Using SciPy
+        1.  Reference Material
+        2.  Statistical Mode
+        3.  ndimage
+    5.  Masked Arrays
 
 6. AstroPy
     1.  Fits I/O
