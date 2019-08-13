@@ -58,11 +58,23 @@ SUSD is currently working on a meta-package written in pure Python to reduce GEM
         3.  ndimage
     5.  Masked Arrays
 
-6. AstroPy
+6. AstroPy (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_AstroPy_Image.pptx) or in [PDF](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations%20(PDFs)/PTS2019_AstroPy_Image.pdf) or see the [Jupyter Notebook](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Notebooks/PTS2019%20-%20AstroPy%20-%20Working%20with%20Images.ipynb))
     1.  Fits I/O
-    2.  Arrays, Headers, and HDU
-    3.  Image Display 
-    4.  Image Manipulation
+        1. getdata
+        2. getheader
+        3. open
+        4. Header Data Units
+    2.  Image Display 
+        1. Simple display
+        2. Changing contrast
+        3. Masking Bad Pixels
+        4. Using WCS
+    3.  imexam
+        1.  A simple example
+    4.  photutils
+        1.  Using DAOStarFind
+        2.  Using IRAFStarFind
+        3.  More
 
 7. Spectrum Analysis and manipulation using AstroPy
     1.  ???
