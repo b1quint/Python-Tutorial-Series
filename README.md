@@ -5,17 +5,17 @@ This repository will hold a series of Python Tutorials dedicated to astronomers 
 
 The material here presented was based on the material produced for the [Python BootCamp 2017 at IAG-USP](https://github.com/b1quint/PythonBootcamp2017).
 
-Please, find the information and links for the existing presentations:
+SUSD is currently working on a meta-package written in pure Python to reduce GEMINI data. This implies that astronomers will have to learn basic concepts of this language. As part of the user support, we will provide a series of Python Tutorials with the following format: 1.5 hour tutorial every 4 weeks with expositive and interactive material (exercises). 
 
-SUSD is currently working on a meta-package written in pure Python to reduce GEMINI data. This implies that astronomers will have to learn basic concepts of this language. As part of the user support, we will provide a series of Python Tutorials with the following format: 1.5 hour tutorial every 4 weeks with expositive and interactive material (exercises). Here is what I want to cover during the year:
+Please, find the information and links for the existing presentations. Mp4 recordings are available only to internal Gemini Users. If you need access, please contact me directly. 
 
-1. Basics 1 (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_Basics_I.pptx) or [PDF](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations%20(PDFs)/PTS2019_Basics_I.pdf))
+1. Basics 1 (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_Basics_I.pptx) or [PDF](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations%20(PDFs)/PTS2019_Basics_I.pdf) or [MP4](https://drive.google.com/file/d/1JUPm1N5hryPOdESL9P1vMvXSDq6sEkDb/view?usp=sharing)) 
     1.  Python Overview
     2.  Python as Console
     3.  Python as Script
     4.  Variables
 
-2. Basics 2 (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_Basics_II.pptx) or [PDF](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations%20(PDFs)/PTS2019_Basics_II.pdf))
+2. Basics 2 (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_Basics_II.pptx) or [PDF](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations%20(PDFs)/PTS2019_Basics_II.pdf) or [Mp4](https://drive.google.com/open?id=1JVhaVMSHNcQyvYbCUBYRv7byIwxPGWb2))
     1.  Code Flow
     2.  Functions
     3. Classes
@@ -32,12 +32,12 @@ SUSD is currently working on a meta-package written in pure Python to reduce GEM
     5.  Virtual Environments
     6.  (Mini/Ana)Conda
 
-4. Data Analysis and Visualization 1 (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations/PTS2019_DataVizualization_I.pptx) or in [PDF](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations%20(PDFs)/PTS2019_DataVizualization_I.pdf) or [Notebook](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Notebooks/PTS2019%20-%20Data%20Analysis%20and%20Visualization%201.ipynb))
+4. Data Analysis and Visualization 1 (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations/PTS2019_DataVizualization_I.pptx) or in [PDF](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations%20(PDFs)/PTS2019_DataVizualization_I.pdf) or [Notebook](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Notebooks/PTS2019%20-%20Data%20Analysis%20and%20Visualization%201.ipynb) or [Mp4](https://drive.google.com/open?id=1JWzcOpMLXa8PAUEfDp3rwv-TRdh46sIy))
     1.  Numpy
     2.  Matplotlib 
     3.  2D Plots
 
-5. Data Analysis and Visualization 2 (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_DataVizualization_II.pptx) or in [PDF](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations%20(PDFs)/PTS2019_DataVizualization_II.pdf))
+5. Data Analysis and Visualization 2 (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_DataVizualization_II.pptx) or in [PDF](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations%20(PDFs)/PTS2019_DataVizualization_II.pdf) or [Mp4](https://drive.google.com/open?id=1JbDlPRLWd5SWMgvC-fTBzuaNG8vGtR0o))
     1.  Numpy Tricks
         1.  Broadcasting
         2.  Meshgrid
@@ -58,7 +58,7 @@ SUSD is currently working on a meta-package written in pure Python to reduce GEM
         3.  ndimage
     5.  Masked Arrays
 
-6. AstroPy (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_AstroPy_Image.pptx) or in [PDF](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations%20(PDFs)/PTS2019_AstroPy_Image.pdf) or see the [Jupyter Notebook](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Notebooks/PTS2019%20-%20AstroPy%20-%20Working%20with%20Images.ipynb))
+6. AstroPy (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_AstroPy_Image.pptx) or in [PDF](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Presentations%20(PDFs)/PTS2019_AstroPy_Image.pdf) or see the [Jupyter Notebook](https://github.com/b1quint/Python-Tutorial-Series/blob/master/Notebooks/PTS2019%20-%20AstroPy%20-%20Working%20with%20Images.ipynb) or [Mp4](https://drive.google.com/open?id=1JbL8rYQgue8eakU94PU99UXRmiVIZBM7))
     1.  Fits I/O
         1. getdata
         2. getheader
