@@ -79,7 +79,11 @@ Please, find the information and links for the existing presentations. Mp4 recor
 7. Spectrum Analysis and manipulation using AstroPy
     1.  ???
 
-8. Code Survival and Good Practices
+8. Your code pretty and healthy (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_Your_Code_Pretty_and_Healthy.pptx) or [PDF](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations%20(PDFs)/PTS2019_Your_Code_Pretty_and_Healthy.pdf))
     1.  Code Style
-    2.  Don't Repeat Yourself
-    3.  Test, and test, and test!
+    2.  Documentation
+    3.  Testing
+    4.  Project Structure
+    5.  Versioning and Version Control
+
+
