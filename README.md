@@ -76,10 +76,7 @@ Please, find the information and links for the existing presentations. Mp4 recor
         2.  Using IRAFStarFind
         3.  More
 
-7. Spectrum Analysis and manipulation using AstroPy
-    1.  ???
-
-8. Your code pretty and healthy (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_Your_Code_Pretty_and_Healthy.pptx) or [PDF](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations%20(PDFs)/PTS2019_Your_Code_Pretty_and_Healthy.pdf))
+7. Your code pretty and healthy (Download in [PPTX](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations/PTS2019_Your_Code_Pretty_and_Healthy.pptx) or [PDF](https://github.com/b1quint/Python-Tutorial-Series/raw/master/Presentations%20(PDFs)/PTS2019_Your_Code_Pretty_and_Healthy.pdf) or [Mp4](https://drive.google.com/file/d/1q9xqtftMVNa9QLvU2kyVIIKrpZtc0BTH/view?usp=sharing))
     1.  Code Style
     2.  Documentation
     3.  Testing
